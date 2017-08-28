@@ -1,0 +1,6 @@
+framework module Pods_SnapPick {
+  umbrella header "Pods-SnapPick-umbrella.h"
+
+  export *
+  module * { export * }
+}
